@@ -17,3 +17,9 @@ git add .
 
 # simpan
 git commit -m "alasan simpan nya"
+
+ini adalah teks tambahan
+
+# masukin akun github
+git config -global user.name "nama akun"
+git config -global user.email "email akun lu"
